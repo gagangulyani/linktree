@@ -3,7 +3,7 @@ function ProfilePicture() {
     <section id="profile-picture">
       <img
         className="rounded-full w-80 mx-auto border-slate-900 border-8 shadow-xl"
-        src="https://pbs.twimg.com/profile_images/1781603395759226880/LOGqn_Di_400x400.jpg"
+        src="https://imgur.com/JcBoxrB"
         alt="Gagan's profile picture"
       />
       <h1 className="text-5xl text-slate-900 text-center my-5">Gagan Deep Singh</h1>
